@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Borrowbooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Publisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_TimKiemLoaiNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_TimKiemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_ViewPointsHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

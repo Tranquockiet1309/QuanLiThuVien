@@ -1,0 +1,1208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_viewpointshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_viewpointshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_viewpointshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_viewpointshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_book.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\pointsledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\pointsledgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_timkiemloainxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemloainxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_timkiemloainxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemloainxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_timkiemsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemsach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\pointsledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\pointsledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\borrowbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\borrowbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\checkinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\checkinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\pointsledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\pointsledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_timkiemloainxb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_timkiemloainxb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_borrowbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\borrowbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\borrowbooksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_checkin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_checkin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\checkindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\checkindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107180415_FixCascadePaths2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251107180415_FixCascadePaths2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107175746_FixCascadePaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251107175746_FixCascadePaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107121950_AddBirthdayToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251107121950_AddBirthdayToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_publisher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_publisher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\data\\migrations\\20251107182133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DC20B-F8CF-4A62-B923-952F6600E379}|Data\\Data.csproj|solutionrelative:data\\migrations\\20251107182133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "UI\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:29.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "UI\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "UI\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:08:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "UI\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
+              "RelativeToolTip": "UI\\ChangePasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:08:57.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_Book.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs",
+              "RelativeDocumentMoniker": "UI\\F_Book.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs [Design]",
+              "RelativeToolTip": "UI\\F_Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:03:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_Book.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs",
+              "RelativeDocumentMoniker": "UI\\F_Book.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs",
+              "RelativeToolTip": "UI\\F_Book.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwHYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:17:45.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_ViewPointsHistory.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs [Design]",
+              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:08:50.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_ViewPointsHistory.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAgwOsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:44:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs",
+              "RelativeToolTip": "UI\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:52:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:52:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:11:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:26:19.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:43:07.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "F_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\F_Dashboard.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs [Design]",
+              "RelativeToolTip": "UI\\F_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:41:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:10:57.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:32:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAUwMwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:43:49.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Login.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.Designer.cs",
+              "RelativeToolTip": "UI\\Login.Designer.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAcwDcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:53:23.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordForm.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\ChangePasswordForm.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.Designer.cs",
+              "RelativeToolTip": "UI\\ChangePasswordForm.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAALEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:08:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "F_Publisher.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs",
+              "RelativeDocumentMoniker": "UI\\F_Publisher.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs [Design]",
+              "RelativeToolTip": "UI\\F_Publisher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:22:28.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "F_Publisher.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs",
+              "RelativeDocumentMoniker": "UI\\F_Publisher.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs",
+              "RelativeToolTip": "UI\\F_Publisher.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:50:12.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "F_Book.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_Book.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.Designer.cs",
+              "RelativeToolTip": "UI\\F_Book.Designer.cs",
+              "ViewState": "AgIAACoCAAAAAAAAAAAuwDgCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:20:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PointsLedgerService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\PointsLedgerService.cs",
+              "RelativeDocumentMoniker": "Services\\PointsLedgerService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\PointsLedgerService.cs",
+              "RelativeToolTip": "Services\\PointsLedgerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:16:54.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "F_Dashboard.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\F_Dashboard.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
+              "RelativeToolTip": "UI\\F_Dashboard.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:26:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "F_Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_Dashboard.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.Designer.cs",
+              "RelativeToolTip": "UI\\F_Dashboard.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAawP8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:26:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "F_Borrowbooks.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
+              "RelativeDocumentMoniker": "UI\\F_Borrowbooks.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
+              "RelativeToolTip": "UI\\F_Borrowbooks.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:27:06.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "F_Borrowbooks.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
+              "RelativeDocumentMoniker": "UI\\F_Borrowbooks.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs [Design]",
+              "RelativeToolTip": "UI\\F_Borrowbooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:19:35.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAkwNUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:43:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "F_TimKiemSach.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemSach.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs",
+              "RelativeToolTip": "UI\\F_TimKiemSach.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:21:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "F_TimKiemSach.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemSach.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs [Design]",
+              "RelativeToolTip": "UI\\F_TimKiemSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:21:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "F_Category.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
+              "RelativeDocumentMoniker": "UI\\F_Category.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
+              "RelativeToolTip": "UI\\F_Category.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAowBkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:06:28.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "F_Category.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
+              "RelativeDocumentMoniker": "UI\\F_Category.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs [Design]",
+              "RelativeToolTip": "UI\\F_Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:29:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "F_TimKiemLoaiNXB.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemLoaiNXB.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs",
+              "RelativeToolTip": "UI\\F_TimKiemLoaiNXB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:36:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "F_TimKiemLoaiNXB.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemLoaiNXB.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs [Design]",
+              "RelativeToolTip": "UI\\F_TimKiemLoaiNXB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:31:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "F_TimKiemSach.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemSach.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.Designer.cs",
+              "RelativeToolTip": "UI\\F_TimKiemSach.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAuwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:22:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PointsLedger.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\PointsLedger.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\PointsLedger.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\PointsLedger.cs",
+              "RelativeToolTip": "Data\\Entities\\PointsLedger.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:48:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Data\\LibraryContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:41:09.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BorrowbooksService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BorrowbooksService.cs",
+              "RelativeDocumentMoniker": "Services\\BorrowbooksService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BorrowbooksService.cs",
+              "RelativeToolTip": "Services\\BorrowbooksService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAqwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:26:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CheckInService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\CheckInService.cs",
+              "RelativeDocumentMoniker": "Services\\CheckInService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\CheckInService.cs",
+              "RelativeToolTip": "Services\\CheckInService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:05:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PointsLedgerDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\PointsLedgerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PointsLedgerDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\PointsLedgerDTO.cs",
+              "RelativeToolTip": "DTO\\PointsLedgerDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:29:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "F_CheckIn.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs",
+              "RelativeDocumentMoniker": "UI\\F_CheckIn.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs [Design]",
+              "RelativeToolTip": "UI\\F_CheckIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:20:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "F_User.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.cs",
+              "RelativeDocumentMoniker": "UI\\F_User.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.cs [Design]",
+              "RelativeToolTip": "UI\\F_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:20:06.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "F_Category.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_Category.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.Designer.cs",
+              "RelativeToolTip": "UI\\F_Category.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAUwD0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:55:20.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:29:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:30:08.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T05:29:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "F_TimKiemLoaiNXB.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_TimKiemLoaiNXB.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.Designer.cs",
+              "RelativeToolTip": "UI\\F_TimKiemLoaiNXB.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:58:36.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Book.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Book.cs",
+              "RelativeToolTip": "Data\\Entities\\Book.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA9wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:56:53.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "F_Borrowbooks.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_Borrowbooks.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.Designer.cs",
+              "RelativeToolTip": "UI\\F_Borrowbooks.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:19:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\CheckIn.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\CheckIn.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\CheckIn.cs",
+              "RelativeToolTip": "Data\\Entities\\CheckIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:47:52.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BorrowbooksDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\BorrowbooksDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BorrowbooksDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\BorrowbooksDTO.cs",
+              "RelativeToolTip": "DTO\\BorrowbooksDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:30:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Borrowbooks.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Borrowbooks.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Borrowbooks.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Borrowbooks.cs",
+              "RelativeToolTip": "Data\\Entities\\Borrowbooks.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:26:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "F_User.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.cs",
+              "RelativeDocumentMoniker": "UI\\F_User.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.cs",
+              "RelativeToolTip": "UI\\F_User.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwHUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:06:44.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "DTO\\ServiceResult.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\ServiceResult.cs",
+              "RelativeToolTip": "DTO\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:21:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:04:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CheckInDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\CheckInDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CheckInDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\CheckInDTO.cs",
+              "RelativeToolTip": "DTO\\CheckInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:29:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "F_CheckIn.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs",
+              "RelativeDocumentMoniker": "UI\\F_CheckIn.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs",
+              "RelativeToolTip": "UI\\F_CheckIn.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:21:02.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "F_CheckIn.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_CheckIn.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.Designer.cs",
+              "RelativeToolTip": "UI\\F_CheckIn.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:21:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20251107180415_FixCascadePaths2.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107180415_FixCascadePaths2.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107180415_FixCascadePaths2.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107180415_FixCascadePaths2.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107180415_FixCascadePaths2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:04:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PublisherDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\PublisherDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PublisherDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\PublisherDTO.cs",
+              "RelativeToolTip": "DTO\\PublisherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:30:29.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20251107181115_FixForeignKeyPaths.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107181115_FixForeignKeyPaths.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:11:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20251107182133_InitialCreate.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107182133_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107182133_InitialCreate.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107182133_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107182133_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:21:33.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20251107175746_FixCascadePaths.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107175746_FixCascadePaths.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107175746_FixCascadePaths.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107175746_FixCascadePaths.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107175746_FixCascadePaths.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:57:46.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251107121950_AddBirthdayToUser.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107121950_AddBirthdayToUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107121950_AddBirthdayToUser.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107121950_AddBirthdayToUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107121950_AddBirthdayToUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:19:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20251107120620_AddPasswordAndIsActiveToUser.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20251107120620_AddPasswordAndIsActiveToUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:06:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Publisher.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Publisher.cs",
+              "RelativeToolTip": "Data\\Entities\\Publisher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:04:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "F_User.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_User.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_User.Designer.cs",
+              "RelativeToolTip": "UI\\F_User.Designer.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAuwJwBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:09:50.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:31:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "F_Publisher.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\F_Publisher.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.Designer.cs",
+              "RelativeToolTip": "UI\\F_Publisher.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAewNkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:29:12.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\PublisherService.cs",
+              "RelativeDocumentMoniker": "Services\\PublisherService.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\PublisherService.cs",
+              "RelativeToolTip": "Services\\PublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:43:27.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Category.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:04:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:26:07.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Form1.Designer.cs",
+              "RelativeToolTip": "UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:14:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:23:17.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:20:32.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:53:12.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
