@@ -4,6 +4,7 @@ using System.Linq;
 using Data;
 using Data.Entities;
 using DTO;
+using Microsoft.EntityFrameworkCore;
 
 namespace Services
 {
@@ -83,6 +84,7 @@ namespace Services
         {
             // Tìm phiếu mượn theo ID
             var record = db.Borrowbooks
+                .Include(b => b.Book)
                 .SingleOrDefault(b => b.BorrowId == borrowId);
 
             if (record == null)

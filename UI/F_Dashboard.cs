@@ -16,6 +16,7 @@ namespace UI
         public F_Dashboard()
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
 
             _db = new LibraryContext();
             _bookService = new BookService(_db);
@@ -25,6 +26,13 @@ namespace UI
 
         private void F_Dashboard_Load(object sender, EventArgs e)
         {
+            // Cập nhật tên user động từ MainForm
+            var mainForm = this.TopLevelControl as MainForm;
+            if (mainForm != null && mainForm.P1 != null)
+            {
+                lblUserProfile.Text = $"👤 {mainForm.P1.FullName} ⚙";
+            }
+
             LoadStatistics();
             LoadLatestBooks();
         }

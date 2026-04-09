@@ -28,6 +28,7 @@ namespace UI
         public F_TimKiemSach(LibraryContext context, bool isSelectionMode = false)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             _db = context;
             _bookService = new BookService(_db);
             _isSelectionMode = isSelectionMode;

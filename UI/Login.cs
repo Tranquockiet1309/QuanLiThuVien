@@ -16,6 +16,7 @@ namespace UI
         public F_Login()
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
 
             // Khởi tạo DbContext + Service
             db = new LibraryContext();

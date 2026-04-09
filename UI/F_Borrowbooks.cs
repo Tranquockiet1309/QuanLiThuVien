@@ -17,6 +17,7 @@ namespace UI
         public F_Borrowbooks(LibraryContext context)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             db = context;
             borrowService = new BorrowbooksService(db);
         }

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,18 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,20 +115,12 @@
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_borrowbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59060FB8-D145-4E17-B215-99B784BB8627}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -157,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|d:\\ltwd\\tranquockiet_2123110364_assgiment\\dto\\pointsledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20953BF0-B123-47F8-B633-BD18EAB8A65D}|DTO\\DTO.csproj|solutionrelative:dto\\pointsledgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|solutionrelative:ui\\f_checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E70E46-F1AC-4444-A442-40A2AB1C06D5}|UI\\UI.csproj|D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\ui\\f_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -315,14 +315,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Settings.Designer.cs",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\Properties\\Settings.Designer.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
-              "RelativeToolTip": "UI\\Properties\\Settings.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "F_Borrowbooks.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
+              "RelativeDocumentMoniker": "UI\\F_Borrowbooks.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs [Design]",
+              "RelativeToolTip": "UI\\F_Borrowbooks.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:24:29.769Z",
+              "WhenOpened": "2025-11-07T22:19:35.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F_Category.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
+              "RelativeDocumentMoniker": "UI\\F_Category.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs [Design]",
+              "RelativeToolTip": "UI\\F_Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:29:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_CheckIn.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs",
+              "RelativeDocumentMoniker": "UI\\F_CheckIn.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs [Design]",
+              "RelativeToolTip": "UI\\F_CheckIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:20:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
+              "RelativeDocumentMoniker": "UI\\F_Dashboard.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs [Design]",
+              "RelativeToolTip": "UI\\F_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:41:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:32:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:10:57.396Z",
               "EditorCaption": ""
             },
             {
@@ -338,19 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangePasswordForm.cs",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
-              "RelativeDocumentMoniker": "UI\\ChangePasswordForm.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
-              "RelativeToolTip": "UI\\ChangePasswordForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:08:57.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "F_Book.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs",
               "RelativeDocumentMoniker": "UI\\F_Book.cs",
@@ -361,7 +405,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "UI\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F_ViewPointsHistory.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAgwOsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:44:25.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "F_ViewPointsHistory.cs [Design]",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
+              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs [Design]",
+              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:08:50.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "F_Book.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.cs",
               "RelativeDocumentMoniker": "UI\\F_Book.cs",
@@ -373,30 +453,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "F_ViewPointsHistory.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
-              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs [Design]",
-              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "UI\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.cs",
+              "RelativeToolTip": "UI\\ChangePasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:08:50.843Z"
+              "WhenOpened": "2025-11-13T10:08:57.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "F_ViewPointsHistory.cs",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
-              "RelativeDocumentMoniker": "UI\\F_ViewPointsHistory.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_ViewPointsHistory.cs",
-              "RelativeToolTip": "UI\\F_ViewPointsHistory.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAgwOsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:44:25.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs",
               "RelativeDocumentMoniker": "UI\\Login.cs",
@@ -409,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.cs",
               "RelativeDocumentMoniker": "UI\\Login.cs",
@@ -420,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
@@ -431,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",
@@ -443,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UI\\MainForm.cs",
@@ -451,46 +520,11 @@
               "RelativeToolTip": "UI\\MainForm.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T19:43:07.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T19:43:07.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "F_Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
-              "RelativeDocumentMoniker": "UI\\F_Dashboard.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs [Design]",
-              "RelativeToolTip": "UI\\F_Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:41:39.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\MainForm.Designer.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.Designer.cs",
-              "RelativeToolTip": "UI\\MainForm.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:10:57.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs",
-              "RelativeDocumentMoniker": "UI\\MainForm.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\MainForm.cs [Design]",
-              "RelativeToolTip": "UI\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:32:11.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -502,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\Login.Designer.cs",
               "RelativeDocumentMoniker": "UI\\Login.Designer.cs",
@@ -514,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ChangePasswordForm.Designer.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\ChangePasswordForm.Designer.cs",
               "RelativeDocumentMoniker": "UI\\ChangePasswordForm.Designer.cs",
@@ -526,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "F_Publisher.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs",
               "RelativeDocumentMoniker": "UI\\F_Publisher.cs",
@@ -537,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "F_Publisher.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Publisher.cs",
               "RelativeDocumentMoniker": "UI\\F_Publisher.cs",
@@ -549,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "F_Book.Designer.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Book.Designer.cs",
               "RelativeDocumentMoniker": "UI\\F_Book.Designer.cs",
@@ -561,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "PointsLedgerService.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\PointsLedgerService.cs",
               "RelativeDocumentMoniker": "Services\\PointsLedgerService.cs",
@@ -573,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "F_Dashboard.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.cs",
               "RelativeDocumentMoniker": "UI\\F_Dashboard.cs",
@@ -585,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "F_Dashboard.Designer.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "UI\\F_Dashboard.Designer.cs",
@@ -597,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "F_Borrowbooks.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
               "RelativeDocumentMoniker": "UI\\F_Borrowbooks.cs",
@@ -605,23 +639,11 @@
               "RelativeToolTip": "UI\\F_Borrowbooks.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:27:06.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T21:27:06.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "F_Borrowbooks.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs",
-              "RelativeDocumentMoniker": "UI\\F_Borrowbooks.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Borrowbooks.cs [Design]",
-              "RelativeToolTip": "UI\\F_Borrowbooks.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:19:35.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "BookService.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
@@ -633,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "F_TimKiemSach.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs",
               "RelativeDocumentMoniker": "UI\\F_TimKiemSach.cs",
@@ -646,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "F_TimKiemSach.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.cs",
               "RelativeDocumentMoniker": "UI\\F_TimKiemSach.cs",
@@ -657,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "F_Category.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
               "RelativeDocumentMoniker": "UI\\F_Category.cs",
@@ -665,23 +687,11 @@
               "RelativeToolTip": "UI\\F_Category.cs",
               "ViewState": "AgIAAP0AAAAAAAAAAAAowBkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T16:06:28.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:06:28.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "F_Category.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs",
-              "RelativeDocumentMoniker": "UI\\F_Category.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_Category.cs [Design]",
-              "RelativeToolTip": "UI\\F_Category.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:29:55.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "F_TimKiemLoaiNXB.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs",
               "RelativeDocumentMoniker": "UI\\F_TimKiemLoaiNXB.cs",
@@ -694,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "F_TimKiemLoaiNXB.cs [Design]",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemLoaiNXB.cs",
               "RelativeDocumentMoniker": "UI\\F_TimKiemLoaiNXB.cs",
@@ -705,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "F_TimKiemSach.Designer.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_TimKiemSach.Designer.cs",
               "RelativeDocumentMoniker": "UI\\F_TimKiemSach.Designer.cs",
@@ -717,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "PointsLedger.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\Entities\\PointsLedger.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\PointsLedger.cs",
@@ -729,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Data\\LibraryContext.cs",
               "RelativeDocumentMoniker": "Data\\LibraryContext.cs",
@@ -741,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "BorrowbooksService.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\BorrowbooksService.cs",
               "RelativeDocumentMoniker": "Services\\BorrowbooksService.cs",
@@ -753,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CheckInService.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\Services\\CheckInService.cs",
               "RelativeDocumentMoniker": "Services\\CheckInService.cs",
@@ -765,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "PointsLedgerDTO.cs",
               "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\DTO\\PointsLedgerDTO.cs",
               "RelativeDocumentMoniker": "DTO\\PointsLedgerDTO.cs",
@@ -774,17 +784,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T18:29:47.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "F_CheckIn.cs [Design]",
-              "DocumentMoniker": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs",
-              "RelativeDocumentMoniker": "UI\\F_CheckIn.cs",
-              "ToolTip": "D:\\LTWD\\TranQuocKiet_2123110364_Assgiment\\UI\\F_CheckIn.cs [Design]",
-              "RelativeToolTip": "UI\\F_CheckIn.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T19:20:54.192Z"
             },
             {
               "$type": "Document",
@@ -879,7 +878,8 @@
               "RelativeToolTip": "UI\\F_Borrowbooks.Designer.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAewB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:19:27.794Z"
+              "WhenOpened": "2025-11-07T22:19:27.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

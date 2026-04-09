@@ -19,6 +19,7 @@ namespace UI
         public F_Publisher(LibraryContext dbContext)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             publisherService = new PublisherService(dbContext);
         }
 

@@ -18,6 +18,7 @@ namespace UI
         public F_CheckIn(LibraryContext context)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
 
             db = context;
             checkInService = new CheckInService(db);

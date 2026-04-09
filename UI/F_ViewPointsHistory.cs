@@ -16,6 +16,7 @@ namespace UI
         public F_ViewPointsHistory()
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             _pointsLedgerService = new PointsLedgerService(new LibraryContext());
         }
 

@@ -25,6 +25,7 @@ namespace UI
         public F_User(LibraryContext dbContext)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             userService = new UserService(dbContext);
         }
        

@@ -22,6 +22,7 @@ namespace UI
         public F_TimKiemLoaiNXB(LibraryContext db)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             _db = db;
             _bookService = new BookService(_db);
         }

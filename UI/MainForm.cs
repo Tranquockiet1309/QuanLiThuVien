@@ -12,6 +12,7 @@ namespace UI
         public MainForm()
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
         }
 
         private void MainForm_Load(object sender, EventArgs e)

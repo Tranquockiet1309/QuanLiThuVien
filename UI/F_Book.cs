@@ -22,6 +22,7 @@ namespace UI
         public F_Book(LibraryContext db)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             bookService = new BookService(db);
             categoryService = new CategoryService(db);
             publisherService = new PublisherService(db);

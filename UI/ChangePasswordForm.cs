@@ -11,6 +11,7 @@ namespace UI
         public ChangePasswordForm(int userId)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             userService = new UserService(new LibraryContext());
             currentUserId = userId;
         }

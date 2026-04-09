@@ -5,6 +5,7 @@ namespace UI
         public Form1()
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
         }
     }
 }

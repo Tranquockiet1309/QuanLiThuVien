@@ -20,6 +20,7 @@ namespace UI
         public F_Category(LibraryContext dbContext)
         {
             InitializeComponent();
+            ThemeManager.Apply(this);
             categoryService = new CategoryService(dbContext);
         }
 
